@@ -5,7 +5,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>helloworld</title>
+    <title>My First PHP Project</title>
+    <link href="styles.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <h1><?php echo $message; ?></h1>
